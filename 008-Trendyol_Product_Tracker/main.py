@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import smtplib
 
-target_price = 45000
+target_price = 29000
 
 EMAIL = YOUR_EMAIL     # "your_email@example.com"
 PASS = YOUR_PASS       # "your_password"
